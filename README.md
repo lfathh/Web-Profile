@@ -1,4 +1,4 @@
-## WEBSITE PROFILE
+## EXAMPLE
 
 # TAMPILAN BAGIAN HOME
 ![Layout](https://files.catbox.moe/zcfneg.jpg)
